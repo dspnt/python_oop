@@ -45,7 +45,7 @@
 
 **Как работает:** Создаётся `TypedCollection[Server]`, добавляются серверы разных типов, выводится их количество и список имён.
 
-![47](img/lab06/img01.png)
+![47](/img/lab06/img01.png)
 
 ---
 
@@ -60,7 +60,7 @@
 
 Показывается изменение типа результата `map`: `list[str]` и `list[float]`.
 
-![47](img/lab06/img02.png)
+![47](/img/lab06/img02.png)
 
 ---
 
@@ -76,7 +76,7 @@
 
 Аналогично для `TypedCollection[S]` с протоколом `Scorable`.
 
-![47](img/lab06/img03.png)
+![47](/img/lab06/img03.png)
 
 ---
 
